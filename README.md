@@ -3,8 +3,8 @@
 ## Data models
 
 <p float="left">
-    <img src="pix/read.png" width="450" />
-    <img src="pix/write.png" width="450" />
+    <img src="pix/read.png" width="400" />
+    <img src="pix/write.png" width="400" />
 </p>
 
 ## Test
