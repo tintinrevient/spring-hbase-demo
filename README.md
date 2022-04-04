@@ -27,3 +27,7 @@ curl -X POST http://localhost:8080/users -H 'Content-Type: application/json' -d 
 curl -X DELETE http://localhost:8080/users/test/email
 curl -X DELETE http://localhost:8080/users/test
 ```
+
+## References
+* https://spring.io/projects/spring-hadoop#overview
+* https://happybase.readthedocs.io/en/latest/
